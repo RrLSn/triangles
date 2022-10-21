@@ -13,7 +13,7 @@ https://github.com/RrLSn/triangles.git
 - CSS
 
 # Demo
-[preview](https://rawcdn.githack.com/RrLSn/triangles/9db65aa6e8754fe9bc76a84e5a76090394d12cae/index.html)
+[Preview](https://rawcdn.githack.com/RrLSn/triangles/9db65aa6e8754fe9bc76a84e5a76090394d12cae/index.html)
 ![screenshot](./Media/Screenshot%202022-10-21%20170025.png)
 
 # Contact
