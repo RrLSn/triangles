@@ -6,7 +6,7 @@ clone or download this respository and run with a local server of open 'index.ht
 
 # Prequisite
 - Your browser version must be recent for a better experience 
-https://github.com/RrLSn/cybergate.git
+https://github.com/RrLSn/triangles.git
 
 # Tech/framework used
 - HTML
